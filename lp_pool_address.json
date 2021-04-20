@@ -1,0 +1,124 @@
+{
+    "HOBBIT-BUSD": {
+        "address": "0xE906FEcCE40ba5aA37D1d4091591170ab1b7318D",
+        "alloc_point": 78,
+        "deposit_fee": 50
+    },
+    "HOBBIT-BNB": {
+        "address": "0x21f14825830D79007C3c1693aa9bfD5060C85049",
+        "alloc_point": 52,
+        "deposit_fee": 50
+    },
+    "HOBBIT-ETH": {
+        "address": "0xE4dbaB177a55e6A0daecDab9BeD974840593DB2E",
+        "alloc_point": 40,
+        "deposit_fee": 50
+    },
+    "HOBBIT-BTC": {
+        "address": "0x6a2265C81985b63B09b21795C005bEcA78d8C86D",
+        "alloc_point": 0,
+        "deposit_fee": 50
+    },
+    "HOBBIT-CAKE": {
+        "address": "0x5aaf06A045fb8C754dd535102b1E0c86b43d4ECe",
+        "alloc_point": 0,
+        "deposit_fee": 50
+    },
+    
+    "BUSD-BNB": {
+        "address": "0x1B96B92314C44b159149f7E0303511fB2Fc4774f",
+        "alloc_point": 5,
+        "deposit_fee": 500
+    },
+    "BTC-BNB": {
+        "address": "0x7561EEe90e24F3b348E1087A005F78B4c8453524",
+        "alloc_point": 8,
+        "deposit_fee": 500
+    },
+    "ETH-BNB": {
+        "address": "0x70D8929d04b60Af4fb9B58713eBcf18765aDE422",
+        "alloc_point": 8,
+        "deposit_fee": 500
+    },
+    "ETH-BUSD": {
+        "address": "0xd9A0d1F5e02dE2403f68Bb71a15F8847A854b494",
+        "alloc_point": 0,
+        "deposit_fee": 500
+    },
+    "DOT-BNB": {
+        "address": "0xbCD62661A6b1DEd703585d3aF7d7649Ef4dcDB5c",
+        "alloc_point": 6,
+        "deposit_fee": 500
+    },
+    "CAKE-BNB": {
+        "address": "0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6",
+        "alloc_point": 6,
+        "deposit_fee": 500
+    },
+    "CAKE-BUSD": {
+        "address": "0x0Ed8E0A2D99643e1e65CCA22Ed4424090B8B7458",
+        "alloc_point": 3,
+        "deposit_fee": 500
+    },
+    "BUSD-USDT": {
+        "address": "0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd",
+        "alloc_point": 3,
+        "deposit_fee": 500
+    },
+    "BUSD-DAI": {
+        "address": "0x3aB77e40340AB084c3e23Be8e5A6f7afed9D41DC",
+        "alloc_point": 0,
+        "deposit_fee": 500
+    },
+
+    "HOBBIT": {
+        "address": "0x77e246073ccd33939be0255249fabb90d87ef066",
+        "alloc_point": 20,
+        "deposit_fee": 50
+    },
+    "BUSD": {
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "alloc_point": 3,
+        "deposit_fee": 500
+    },
+    "BNB": {
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "alloc_point": 4,
+        "deposit_fee": 500
+    },
+    "BTC": {
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "alloc_point": 4,
+        "deposit_fee": 500
+    },
+    "ETH": {
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "alloc_point": 4,
+        "deposit_fee": 500
+    },
+    "DOT": {
+        "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+        "alloc_point": 0,
+        "deposit_fee": 500
+    },
+    "EGG": {
+        "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+        "alloc_point": 0,
+        "deposit_fee": 500
+    },
+    "CAKE": {
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "alloc_point": 3,
+        "deposit_fee": 500
+    },
+    "DAI": {
+        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "alloc_point": 0,
+        "deposit_fee": 500
+    },
+    "USDT": {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "alloc_point": 0,
+        "deposit_fee": 500
+    }
+}
